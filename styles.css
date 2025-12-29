@@ -9,7 +9,7 @@
 }
 .triangle{
     width: 173px;
-    height: 150px;
+    height: 173px;
     background-color: blue;
     clip-path: polygon(6.7% 6.7%, 93.3% 6.7%, 50% 93.3%);
     display: flex;
@@ -20,6 +20,7 @@
     color: white;
     font-size: 10px;
 }
+
 
 
 
