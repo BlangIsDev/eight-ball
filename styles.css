@@ -8,7 +8,7 @@
     align-items: center;
 }
 .triangle{
-    width: 150px;
+    width: 173px;
     height: 150px;
     background-color: blue;
     clip-path: polygon(6.7% 6.7%, 93.3% 6.7%, 50% 93.3%);
@@ -20,6 +20,7 @@
     color: white;
     font-size: 10px;
 }
+
 
 
 
