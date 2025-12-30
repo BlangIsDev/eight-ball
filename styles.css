@@ -11,6 +11,7 @@
     width: 173.205px;
     height: 150px;
     background-color: blue;
+    overflow: hidden;
     clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
     display: flex;
     justify-content: center;
@@ -19,7 +20,9 @@
 .text{
     color: white;
     font-size: 10px;
+    text-align: center;
 }
+
 
 
 
